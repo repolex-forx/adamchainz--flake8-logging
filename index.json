@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "flake8-logging",
+  "versions": [
+    {
+      "commit": "ee5d482b790ce6b3bddca67f58be9dab8e1e2559",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:15:41.657465+00:00"
+    }
+  ]
+}
