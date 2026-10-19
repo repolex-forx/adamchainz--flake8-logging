@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/flake8-logging/commit/ee5d482b790ce6b3bddca67f58be9dab8e1e2559",
       "git:hexsha": "ee5d482b790ce6b3bddca67f58be9dab8e1e2559",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:15:41.656966+00:00"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/flake8-logging/commit/df8e855266095759c075ea4497c625db05506681",
